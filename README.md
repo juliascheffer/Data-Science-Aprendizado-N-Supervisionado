@@ -1,6 +1,8 @@
 Trabalho da matéria de Data Science do 6° período de Sistemas de Informação
+   
+   Turma: BSI - Quarta - Noturno
 
-   Link do repositório: https://github.com/juliascheffer/Data-Science-Aprendizado-N-Supervisionado Turma: BSI - Quarta - Noturno
+   Link do repositório: https://github.com/juliascheffer/Data-Science-Aprendizado-N-Supervisionado
    
    Integrantes do Grupo: Julia Scheffer, Hellen Cristina Gurgacz Fiori
    
